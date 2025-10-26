@@ -1,0 +1,4 @@
+Number_User = input("enter your number: ") 
+Number_User = int(Number_User) 
+Square_Number = Number_User * Number_User
+print("The Square Root is", Square_Number)
